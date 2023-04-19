@@ -23,7 +23,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tescaro_" height="30" width ="40" />
 </a>
 
-<a href="https://discord.gg/Tescaro#2150" target="blank">
+<a href="https://discord.gg/invite/Tescaro#2150" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tescaro#2150" height="30" width="40" />
 </a>
 
