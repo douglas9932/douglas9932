@@ -11,7 +11,7 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/douglas tescaro" target="blank">
+<a href="https://linkedin.com/in/douglas-tescaro-335559165" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas tescaro c. da silva" height="30" width="40" />
 </a>
 
