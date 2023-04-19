@@ -7,7 +7,7 @@
 
 - 📫 Como me achar **tescarodouglas9@gmail.com**
 
-<h3 align="left">Conecte-se com eu:</h3>
+<h3 align="left">Conecte-se com comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/douglas tescaro" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas tescaro" height="30" width="40" /></a> <a href="
