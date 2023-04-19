@@ -15,11 +15,11 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas tescaro c. da silva" height="30" width="40" />
 </a>
 
-<a href="https://instagram .com/tescaro_" target="blank">
+<a href="https://www.facebook.com/douglas.tescarocandidodasilva" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="douglas tescaro c. da silva" height="30" width="40" />
 </a> 
 
-<a href="https://instagram .com/tescaro_" target="blank">
+<a href="https://www.instagram.com/tescaro_/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tescaro_" height="30" width ="40" />
 </a>
 
