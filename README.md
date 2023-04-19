@@ -1,4 +1,4 @@
-    <h1 align="center">Olá 👋, Me chamo Douglas Tescaro C. da Silva</h1>
+<h1 align="center">Olá 👋, Me chamo Douglas Tescaro C. da Silva</h1>
 <h3 align="center">Sou desenvolvedor Júnior FullStack, e esse é o meu repositório de projetos desenvolvido em meu tempo livre. </h3>
 
 - 🔭 Atualmente estou desenvolvendo um projeto pessoal para controle financeiro. **Controle de Gastos**
@@ -69,9 +69,15 @@
         <h3 align="left">Estrutura:</h3>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel ="noreferrer"> 
     </p>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel=" noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a > <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www. php.net" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt ="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p></a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+    <p>
+        <h3 align="left">Programas:</h3>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www. php.net" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a > <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt ="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    </p>
+    <p>
+        <h3 align="left">Outros:</h3>
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel=" noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p></a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+    </p>
 </p>
