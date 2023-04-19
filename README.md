@@ -9,10 +9,14 @@
 
 <h3 align="left">Conecte-se com eu:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/douglas tescaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas tescaro" height="30" width="40" /></a> <a href="
-https ://fb.com/douglas tescaro c. da silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/ master/src/images/icons/Social/facebook.svg" alt="douglas tescaro c. da silva" height="30" width="40" /></a> <a href="https://
-instagram .com/tescaro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tescaro_" height="30" width ="40" /></a>
-<a href="https://discord.gg/Tescaro#2150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/discord.svg" alt="Tescaro#2150" height="30" width="40" /></a> </p> <h3 align=
+<a href="https://linkedin.com/in/douglas tescaro" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas tescaro" height="30" width="40" /></a> <a href="
+https ://fb.com/douglas tescaro c. da silva" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/ master/src/images/icons/Social/facebook.svg" alt="douglas tescaro c. da silva" height="30" width="40" /></a> <a href="https://
+instagram .com/tescaro_" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tescaro_" height="30" width ="40" /></a>
+<a href="https://discord.gg/Tescaro#2150" target="blank">
+  <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/discord.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F353655%2Fdiscord-icon&psig=AOvVaw32XkViU4Va0CPqCJdqjhin&ust=1681953928095000&source=images&cd=vfe&ved=2ahUKEwjBjMnk5LT-AhW4IbkGHc78CbsQjRx6BAgAEAw)" alt="Tescaro#2150" height="30" width="40" /></a> </p> <h3 align=
 "
 
 left ">Idiomas e ferramentas:</h3>
