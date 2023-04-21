@@ -74,7 +74,7 @@ Banco de Dados
 Servidores  
 <div align="center">  
 <a href="https://www.apachefriends.org/pt_br/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMP" height="50" /></a>  
-<a href="https://www.iis.net/" target="_blank"><img style="margin: 10px" src="https://logodix.com/logo/1845796.png" alt="IIS" height="50" /></a> 
+<a href="https://www.iis.net/" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/microsoft-iis2928.jpg" alt="IIS" height="50" /></a> 
 
 </div>
 
