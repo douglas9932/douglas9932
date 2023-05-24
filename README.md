@@ -10,7 +10,7 @@
 - 🌱 Atualmente estou Cursando Análise em Desenvolvimento de Sistemas na PUC-PR.  
   
 
-- 📫 Como me achar tescarodouglas9@gmail.com  
+- 📫 Como me contatar tescarodouglas9@gmail.com  
   
 
 <br/>  
