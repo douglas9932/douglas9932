@@ -85,6 +85,13 @@ Servidores
 <!--
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>-->
+### Stats
+<div>
+<a href="https://github.com/douglas9932">
+<img loading="lazy" height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas9932&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="210em" src="https://github-readme-stats.vercel.app/api?username=douglas9932&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+</div>
+ 
 <br />
 
 ----
